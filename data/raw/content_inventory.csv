@@ -1,1 +1,4 @@
-﻿content_id,title,content_type,category,publish_date,word_count,main_keyword,platform,url
+﻿content_id,title,content_type,category,publish_date,word_count,main_keyword,platform,views,clicks,comments,shares
+1,The Mothman Reborn,fiction,cryptid,5/20/2026,3200,mothman horror,Howlietzer,450,37,12,21
+2,Creating Fantasy Religions,blog,fantasy,5/18/2026,1800,fantasy worldbuilding,Howlietzer,220,15,4,8
+3,Not Deer Explained,lore,cryptid,5/15/2026,2400,not deer folklore,Howlietzer,700,52,16,30
